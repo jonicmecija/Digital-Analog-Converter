@@ -1,0 +1,7 @@
+Dependencies for Project 'CECS447_Project1', Target 'HelloLaunchPad': (DO NOT MODIFY !)
+F (.\main.c)(0x5CF81942)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (TExaS.h)(0x5699E5E6)
+I (PLL.h)(0x5C73698A)
+I (tm4c123gh6pm.h)(0x56CDF796)
+F (.\startup.s)(0x57021A18)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\texas.o)(0x5699E5E6)()
