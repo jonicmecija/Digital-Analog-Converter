@@ -44,7 +44,7 @@ This schematic shows the connections between the TM4C123 Microcontroller, R2R ci
 
 ## Testing and Validation
 
-The following pictures display the successful validation of the R2R circuits in their respective modes showing the saw-tooth, triangle, sqaure, and sine wave at 440 Hz.
+The following pictures display the successful validation of the R2R circuit in their respective modes showing the saw-tooth, triangle, sqaure, and sine wave at 440 Hz.
 
 ### Sawtooth Wave @ 440 Hz
 <img src = "https://github.com/jonicmecija/Digital-Analog-Converter/blob/master/images/sawtooth.png" width = "300">
